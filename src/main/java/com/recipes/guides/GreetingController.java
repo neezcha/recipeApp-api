@@ -1,4 +1,4 @@
-package com.recipes.recipes.guide;
+package com.recipes.guides;
 
 import java.util.concurrent.atomic.AtomicLong;
 

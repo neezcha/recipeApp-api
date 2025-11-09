@@ -18,8 +18,8 @@ import com.google.firebase.FirebaseOptions;
 @SpringBootApplication
 public class RecipesApplication {
 
-	@Autowired 
-	Environment env;
+	// @Autowired 
+	// Environment env;
 
 	public static void main(String[] args) {
 		SpringApplication.run(RecipesApplication.class, args);

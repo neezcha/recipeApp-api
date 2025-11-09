@@ -1,4 +1,4 @@
-package com.recipes.recipes.guide;
+package com.recipes;
 
 public class RecipesDao {
 
